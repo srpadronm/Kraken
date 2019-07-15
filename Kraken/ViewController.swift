@@ -49,6 +49,13 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view.
         // Do any additional setup after loading the view.
     }
+    
+    func siete() {
+        // Do any additional setup after loading the view.
+        // Do any additional setup after loading the view.
+        // Do any additional setup after loading the view.
+        // Do any additional setup after loading the view.
+    }
 
 }
 
