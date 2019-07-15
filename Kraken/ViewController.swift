@@ -69,6 +69,9 @@ class ViewController: UIViewController {
     
     func nueve() {
     }
+    
+    func diez() {
+    }
 
 }
 
