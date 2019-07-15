@@ -22,6 +22,13 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view.
     }
     
+    func dos() {
+        // Do any additional setup after loading the view.
+        // Do any additional setup after loading the view.
+        // Do any additional setup after loading the view.
+        // Do any additional setup after loading the view.
+    }
+    
     func tres() {
         // Do any additional setup after loading the view.
         // Do any additional setup after loading the view.
