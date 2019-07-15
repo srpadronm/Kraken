@@ -63,6 +63,12 @@ class ViewController: UIViewController {
     
     func siete() {
     }
+    
+    func ocho() {
+    }
+    
+    func nueve() {
+    }
 
 }
 
