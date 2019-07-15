@@ -14,6 +14,20 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
     }
+    
+    func tres() {
+        // Do any additional setup after loading the view.
+        // Do any additional setup after loading the view.
+        // Do any additional setup after loading the view.
+        // Do any additional setup after loading the view.
+    }
+    
+    func cuantro() {
+        // Do any additional setup after loading the view.
+        // Do any additional setup after loading the view.
+        // Do any additional setup after loading the view.
+        // Do any additional setup after loading the view.
+    }
 
 
 }
